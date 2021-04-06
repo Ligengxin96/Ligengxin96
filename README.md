@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ligengxin
 
 - 🔭 I’m currently working for Microsoft as a vendor
-- 🌱 I’m currently learning Node.js and want to be a javaScript full stack developer
+- 🌱 I’m currently learning Node.js, TypeScript and want to be a full stack developer
 - 💬 Here is [my blog](https://blog.ligengxin.me), welcome to discuss the articles with me
 <!--
 **Ligengxin96/Ligengxin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=java&logoColor=white)](https://reactjs.org/)
+[![](https://img.shields.io/badge/React-2376bc?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://nginx.org/)
 [![](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
