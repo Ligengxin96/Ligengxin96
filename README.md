@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Ligengxin96&show_icons=true&count_private=true&hide=prs&theme=default_repocar" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ligengxin96&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
-</div>
 
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Ligengxin96&&show_icons=true&count_private=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ligengxin96&layout=compact" />
+</div>
 
 #### Platform&Skill
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
