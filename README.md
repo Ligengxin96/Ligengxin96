@@ -32,6 +32,3 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
-
-#### Console&Game
-![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
