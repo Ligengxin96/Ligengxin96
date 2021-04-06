@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/React-2376bc?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://nginx.org/)
+[![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
