@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working for Microsoft as a vendor
 - 🌱 I’m currently learning Node.js and want to be a javaScript full stack developer
-- 💬 Here is [my blog](https://blog.ligengxin.me), welcome to discuss the articles with me.
+- 💬 Here is [my blog](https://blog.ligengxin.me), welcome to discuss the articles with me
 <!--
 **Ligengxin96/Ligengxin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
