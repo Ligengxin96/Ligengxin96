@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ligengxin
 
-- 🔭 I’m currently working for a startups as a backend developerk.
+- 🔭 I’m currently working for a startups as a backend developer.
 - 🌱 I’m currently learning Node.js, TypeScript and want to be a full stack developer
 - 💬 Here is [my blog](https://blog.ligengxin.me), welcome to discuss the articles with me
 <!--
