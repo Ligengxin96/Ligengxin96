@@ -1,8 +1,13 @@
 ### Hi there 👋 I'm Ligengxin
 
+<div>
+<a href="https://github.com/Ligengxin96/iBeats" ><img align="right" style="margin-top: -50px;" src="https://raw.githubusercontent.com/Ligengxin96/iBeats/main/files/heart.svg"/></a>
+</div>
+
 - 🔭 I’m currently working for a startups as a backend developer.
 - 🌱 I’m currently learning Node.js, TypeScript and want to be a full stack developer
 - 💬 Here is [my blog](https://blog.ligengxin.me), welcome to discuss the articles with me
+
 <!--
 **Ligengxin96/Ligengxin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Ligengxin96&&show_icons=true&count_private=true" />
