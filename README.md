@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Ligengxin
 
-<div>
-<a href="https://github.com/Ligengxin96/iBeats" ><img align="right" style="margin-top: -50px;" src="https://raw.githubusercontent.com/Ligengxin96/iBeats/main/files/heart.svg"/></a>
-</div>
+
+<a href="https://github.com/Ligengxin96/iBeats" ><img src="https://raw.githubusercontent.com/Ligengxin96/iBeats/main/files/heart.svg"/></a>
 
 - 🔭 I’m currently working for a startups as a backend developer.
 - 🌱 I’m currently learning Node.js, TypeScript and want to be a full stack developer
