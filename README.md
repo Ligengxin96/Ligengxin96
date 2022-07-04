@@ -1,26 +1,9 @@
-### Hi there 👋 I'm Ligengxin
+### Hi there 👋 I'm Ligengxin <a href="https://github.com/Ligengxin96/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/Ligengxin96/iBeats/main/files/heart.svg"/></a>
 
+- 🔭 I’m currently working for a startups as a backend developer.</p>
+- 🌱 I’m currently learning Node.js, TypeScript and want to be a full stack developer</p>
+- 💬 Here is [my blog](https://blog.ligengxin.me), welcome to discuss the articles with me</p>
 
-<a href="https://github.com/Ligengxin96/iBeats" ><img src="https://raw.githubusercontent.com/Ligengxin96/iBeats/main/files/heart.svg"/></a>
-
-- 🔭 I’m currently working for a startups as a backend developer.
-- 🌱 I’m currently learning Node.js, TypeScript and want to be a full stack developer
-- 💬 Here is [my blog](https://blog.ligengxin.me), welcome to discuss the articles with me
-
-<!--
-**Ligengxin96/Ligengxin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working for Microsoft as a vendor
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Ligengxin96&&show_icons=true&count_private=true" />
