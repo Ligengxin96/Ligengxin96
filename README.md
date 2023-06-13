@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Ligengxin <a href="https://github.com/Ligengxin96/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/Ligengxin96/iBeats/main/files/heart.svg"/></a>
 
-- 🔭 I’m currently working for Thinkive as a nodejs developer, my job is develop the video rendering engine use nodejs, FFmpeg and Puppeteer.</p>
-- 🌱 I’m currently following AI technology.</p>
-- 💬 Here is [my blog](https://blog.ligengxin.me), welcome to discuss the articles with me</p>
+- 🔭 I’m currently working as a Node.js developer at Thinkive. My job involves developing the video rendering engine using Node.js, FFmpeg, and Puppeteer.</p>
+- 🌱 I’m currently interested in AI technology..</p>
+- 💬 Here is [my blog](https://blog.ligengxin.me), welcome to discuss the articles with me.</p>
 
 
 <div>
