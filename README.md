@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ligengxin <a href="https://github.com/Ligengxin96/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/Ligengxin96/iBeats/main/files/heart.svg"/></a>
 
-- 🔭 I’m currently working for a startups as a backend developer.</p>
+- 🔭 I’m currently working for a Thinkive as a nodejs developer.</p>
 - 🌱 I’m currently learning Node.js, TypeScript and want to be a full stack developer</p>
 - 💬 Here is [my blog](https://blog.ligengxin.me), welcome to discuss the articles with me</p>
 
