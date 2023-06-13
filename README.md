@@ -1,13 +1,13 @@
 ### Hi there 👋 I'm Ligengxin <a href="https://github.com/Ligengxin96/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/Ligengxin96/iBeats/main/files/heart.svg"/></a>
 
-- 🔭 I’m currently working for a Thinkive as a nodejs developer.</p>
-- 🌱 I’m currently learning Node.js, TypeScript and want to be a full stack developer</p>
+- 🔭 I’m currently working for Thinkive as a nodejs developer, my job is develop the video rendering engine use nodejs, FFmpeg and Puppeteer.</p>
+- 🌱 I’m currently following AI technology.</p>
 - 💬 Here is [my blog](https://blog.ligengxin.me), welcome to discuss the articles with me</p>
 
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Ligengxin96&&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ligengxin96&layout=compact&exclude_repo=Blog,Ligengxin96.github.io,ShowRepoTrafficData,GoFish" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/, username=Ligengxin96&layout=compact&exclude_repo=Blog,Ligengxin96.github.io,ShowRepoTrafficData,GoFish" />
 </div>
 
 #### Platform&Skill
