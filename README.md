@@ -6,9 +6,10 @@
 
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Ligengxin96&&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ligengxin96&layout=compact&exclude_repo=Blog,Ligengxin96.github.io,ShowRepoTrafficData,GoFish" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Ligengxin96&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ligengxin96&layout=compact&exclude_repo=Blog,Ligengxin96.github.io,ShowRepoTrafficData,GoFish," />
 </div>
+
 
 #### Platform&Skill
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com/)
