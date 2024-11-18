@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ligengxin <a href="https://github.com/Ligengxin96/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/Ligengxin96/iBeats/main/files/heart.svg"/></a>
+### Hi there 👋 I'm Ligengxin <a href="https://github.com/Ligengxin96/iBeats"></a>
 
 - 🔭 I’m currently working as a Node.js developer at Thinkive. My job involves developing the video rendering engine using Node.js, FFmpeg, and Puppeteer.</p>
 - 🌱 I’m currently interested in AIGC technology.</p>
