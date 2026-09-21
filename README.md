@@ -11,8 +11,14 @@
 
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Ligengxin96&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ligengxin96&layout=compact&exclude_repo=Blog,Ligengxin96.github.io,ShowRepoTrafficData,GoFish," />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg" />
+    <img height="170" src="profile-summary-card-output/github/3-stats.svg" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <img height="170" src="profile-summary-card-output/github/2-most-commit-language.svg" />
+  </picture>
 </div>
 
 
