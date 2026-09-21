@@ -1,8 +1,13 @@
-### Hi there 👋 I'm Ligengxin <a href="https://github.com/Ligengxin96/iBeats"></a>
+### Hi there 👋 I'm Ligengxin
 
-- 🔭 I’m currently working as a Node.js backend developer at a web3 startup.</p>
-- 🌱 I’m currently interested in web3 technology.</p>
-- 💬 Here is [my blog](https://blog.ligengxin.me), welcome to discuss the articles with me.</p>
+**Developer | Quantitative Trading Researcher**
+
+- 📈 Building [**outcometick**](https://outcometick.com) — historical tick data and a backtesting sandbox for Polymarket and Predict.fun crypto Up/Down markets: Chainlink settlement feeds, order books and trade prints.
+  - Data subscription: <https://outcometick.com>
+  - Free sample data: [polymarket-data-samples](https://github.com/Ligengxin96/polymarket-data-samples) · [predict.fun-data-samples](https://github.com/Ligengxin96/predict.fun-data-samples)
+  - Strategy SDK: [TypeScript](https://github.com/outcometick/outcometick-sdk-ts) · [Python](https://github.com/outcometick/outcometick-sdk-python)
+- 🔬 Researching quantitative strategies on prediction markets.
+- 💬 Here is [my blog](https://blog.ligengxin.me), welcome to discuss the articles with me.
 
 
 <div>
@@ -24,5 +29,8 @@
 [![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
+[![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![](https://img.shields.io/badge/NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
