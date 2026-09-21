@@ -12,12 +12,12 @@
 
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg" />
-    <img height="170" src="profile-summary-card-output/github/3-stats.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ligengxin96/Ligengxin96/main/profile-summary-card-output/github_dark/3-stats.svg" />
+    <img height="170" src="https://raw.githubusercontent.com/Ligengxin96/Ligengxin96/main/profile-summary-card-output/github/3-stats.svg" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-    <img height="170" src="profile-summary-card-output/github/2-most-commit-language.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ligengxin96/Ligengxin96/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <img height="170" src="https://raw.githubusercontent.com/Ligengxin96/Ligengxin96/main/profile-summary-card-output/github/2-most-commit-language.svg" />
   </picture>
 </div>
 
@@ -25,6 +25,7 @@
 #### Platform&Skill
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
